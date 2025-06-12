@@ -62,6 +62,12 @@ me.sayHi();
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+### Design & Multimedia
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-FF6B6B?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
 </div>
 
 ## 💪 Soft Skills
@@ -71,6 +77,19 @@ me.sayHi();
 - **📅 Event Management** - Organizing and coordinating events
 - **🎤 Public Speaking** - Confident communication and presentation skills
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 👨‍💻 Competitive Programming
 
@@ -91,12 +110,30 @@ me.sayHi();
 - 💬 Ask me about **React, Node.js, or Competitive Programming**
 - ⚡ Fun fact: **I enjoy solving complex problems and building scalable solutions!**
 
-
-
-## ❤️ THANK YOU 
+## 🎨 Featured Projects
 
 <div align="center">
-  <img src="https://media.tenor.com/nE9laAoTsBEAAAAj/luffy-gear-5-laughing-sticker.gif" alt="Snake animation" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true)](https://github.com/yourusername/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true)](https://github.com/yourusername/project2)
+
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-portfolio-dusky.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-sharma-3bb87027b)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1GiJzN6kzn8AEU60qNAfPNr92W2fSUCWt)
+[![Design Portfolio](https://img.shields.io/badge/Design_Portfolio-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nOPlWiJlt7Iv4omPligENPe1TBFvO4MT/view)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 💭 Random Quote
