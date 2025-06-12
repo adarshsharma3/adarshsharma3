@@ -96,30 +96,11 @@ me.sayHi();
 - 💬 Ask me about **React, Node.js, or Competitive Programming**
 - ⚡ Fun fact: **I enjoy solving complex problems and building scalable solutions!**
 
-## 🎨 Featured Projects
+
+## ❤️ THANK YOU
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true)](https://github.com/yourusername/project2)
-
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-portfolio-dusky.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-sharma-3bb87027b)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1GiJzN6kzn8AEU60qNAfPNr92W2fSUCWt)
-[![Design Portfolio](https://img.shields.io/badge/Design_Portfolio-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nOPlWiJlt7Iv4omPligENPe1TBFvO4MT/view)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media.tenor.com/nE9laAoTsBEAAAAj/luffy-gear-5-laughing-sticker.gif" alt="Snake Luffy" />
 </div>
 
 ## 💭 Random Quote
