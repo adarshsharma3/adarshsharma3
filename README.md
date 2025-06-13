@@ -90,6 +90,9 @@ me.sayHi();
 
 </div>
 
+## 🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/adarsh-sharma-3bb87027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://adarsh-portfolio-dusky.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> <a href="https://drive.google.com/drive/folders/1GiJzN6kzn8AEU60qNAfPNr92W2fSUCWt"> <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"> </a> </p>
+
 ## 🎯 Current Focus
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
